@@ -3,3 +3,5 @@
 My first mini project :)
 A game of TicTacToe written in JavaScript 
 Reference : https://www.youtube.com/watch?v=AnmwHjpEhtA&t=435s
+
+all games are made for learning basic language fundamentals 
